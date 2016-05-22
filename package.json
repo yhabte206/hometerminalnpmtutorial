@@ -1,6 +1,6 @@
 {
   "name": "@yhabte206/npmpractice",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "This is how-to-npm on my terminal.",
   "main": "index.js",
   "scripts": {
